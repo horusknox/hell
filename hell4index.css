@@ -1,0 +1,71 @@
+*{
+    background-color: black;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+a:hover
+{
+    background-color: azure;
+    color: rgb(255, 0, 0);
+    text-decoration: wavy;
+    text-align: center;
+}
+a{
+    padding: 10px;
+    background-color: rgb(0, 255, 115);
+    text-align: center;
+}
+li{
+    list-style: square;
+    text-align: center;
+}
+input{
+    color: bisque;
+    text-align: center;
+}
+.gold{
+    color: gold;
+    text-align: center;
+}
+tfoot.gold{
+    color: blueviolet;
+    text-align: center;
+}
+h6{
+    color: azure;
+    text-decoration: overline;
+    text-align: center;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+h2{
+    color: aqua;
+}
+.green{
+    text-indent: 30px;
+    color: green;
+    text-align: left;
+}
+ul,li{
+    color: rgba(238, 255, 0,50);
+    text-align: left;
+} 
+.cardz{
+    color: blue;
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+.gold:hover{
+    text-decoration: wavy;
+    font-size: larger;
+}
+table.gold:hover{
+    font-size: larger;
+    font-family: fantasy;
+    font-weight: bolder;
+    color: aqua;
+}

@@ -8,7 +8,7 @@ a:hover
     background-color: azure;
     color: rgb(255, 0, 0);
     text-decoration: wavy;
-    text-align: center;
+    text-align: left;
 }
 a{
     padding: 10px;
